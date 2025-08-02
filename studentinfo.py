@@ -1,0 +1,7 @@
+name=input('Enter ur name')
+branch=input('Enter ur branch')
+college=input('Enter the name of your college')
+print('Student details')
+print('Name=',name)
+print('Branch=',branch)
+print('College=',college)
